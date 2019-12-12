@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc0cf84e-8c6e-451d-bce8-4b3003af5749" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UrVvtwPm54hCCJhmX3BqqeUSyz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestMain.Test">
+    <configuration name="TestMain.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RedisCacheAop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestMain" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartUpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="RedisCacheAop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.bestsort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.bestsort.StartUpApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestMain.Test" />
+        <item itemvalue="Spring Boot.StartUpApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc0cf84e-8c6e-451d-bce8-4b3003af5749" name="Default Changelist" comment="" />
+      <created>1576114934877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576114934877</updated>
+      <workItem from="1576114937073" duration="653000" />
+      <workItem from="1576115604830" duration="2646000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="200" width="884" height="677" key="#Project_Structure" timestamp="1576116420715">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="555" y="200" width="884" height="677" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1576116420715" />
+    <state x="552" y="464" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1576115897512">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="464" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1576115897512" />
+    <state x="693" y="287" width="524" height="504" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576116840649">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="693" y="287" width="524" height="504" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1576116840649" />
+    <state width="1870" height="353" key="GridCell.Tab.0.bottom" timestamp="1576118251470">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="353" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1576118251470" />
+    <state width="1870" height="353" key="GridCell.Tab.0.center" timestamp="1576118251467">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="353" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1576118251467" />
+    <state width="1870" height="353" key="GridCell.Tab.0.left" timestamp="1576118251466">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="353" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1576118251466" />
+    <state width="1870" height="353" key="GridCell.Tab.0.right" timestamp="1576118251469">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="353" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1576118251469" />
+    <state width="1870" height="353" key="GridCell.Tab.1.bottom" timestamp="1576118251474">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="353" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1576118251474" />
+    <state width="1870" height="353" key="GridCell.Tab.1.center" timestamp="1576118251472">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="353" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1576118251472" />
+    <state width="1870" height="353" key="GridCell.Tab.1.left" timestamp="1576118251471">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="353" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1576118251471" />
+    <state width="1870" height="353" key="GridCell.Tab.1.right" timestamp="1576118251473">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="353" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1576118251473" />
+    <state x="441" y="174" width="1024" height="845" key="SettingsEditor" timestamp="1576116417224">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="441" y="174" width="1024" height="845" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1576116417224" />
+    <state width="498" height="586" key="SwitcherDM" timestamp="1576118005617">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="498" height="586" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1576118005617" />
+    <state x="624" y="246" key="run.anything.popup" timestamp="1576115570533">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="624" y="246" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1576115570533" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="jedis.exists(key)" language="JAVA" />
+        <watch expression="cacheAop.cacheType()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
